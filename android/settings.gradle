@@ -1,0 +1,3 @@
+rootProject.name = 'reactxp_basic'
+
+include ':app'
